@@ -1,2 +1,4 @@
-node_modules
-notes-api-webserver.pem 
+/node_modules
+yarn.lock
+.env
+.prod.env
